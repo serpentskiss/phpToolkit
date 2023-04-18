@@ -1,0 +1,22 @@
+{
+    "name": "jthompson/phpToolkit",
+    "description": "PHP functions and wrappers",
+    "type": "package",
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Jon Thompson",
+            "email": "jon@jonthompson.co.uk",
+            "homepage": "https://jonthompson.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "jthompson\\phpToolkit\\": "src/"
+        }
+    }
+}
