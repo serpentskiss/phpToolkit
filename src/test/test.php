@@ -1,5 +1,5 @@
 <?php
-namespace jthompson\phpToolkit\test;
+namespace jthompson\phptoolkit\test;
 
 /**
  * Just a test to check that git is working
