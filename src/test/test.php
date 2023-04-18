@@ -1,3 +1,4 @@
+<?php
 namespace jthompson\phpToolkit\test;
 
 class test {
