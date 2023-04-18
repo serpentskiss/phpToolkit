@@ -1,5 +1,5 @@
 {
-    "name": "jthompson/phpToolkit",
+    "name": "jthompson/phptoolkit",
     "description": "PHP functions and wrappers",
     "type": "package",
     "require": {
@@ -16,7 +16,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "jthompson\\phpToolkit\\": "src/"
+            "jthompson\\phptoolkit\\": "src/"
         }
     }
 }
